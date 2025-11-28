@@ -1,0 +1,14 @@
+langchain-google-genai
+google-generativeai
+fastapi
+uvicorn 
+requests 
+beautifulsoup4 
+lxml 
+twilio 
+langgraph 
+langchain-community 
+nltk 
+python-dotenv
+langchain
+python-multipart
