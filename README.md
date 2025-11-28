@@ -1,7 +1,3 @@
-Here is a comprehensive `README.md` file for your project. I have organized it to explain the architecture, setup, and usage clearly.
-
----
-
 # 📈 WhatsApp AI Stock News Bot
 
 A real-time, AI-powered stock tracking agent that lives in your WhatsApp.
@@ -18,8 +14,8 @@ This application uses **FastAPI** to handle webhooks, **LangGraph** to create a 
 
 ## Screenshots
 
-[Screenshot 1](https://github.com/user-attachments/assets/ddb86d24-ed75-4916-b8eb-b2ac24573122)
-[Screenshot 2](https://github.com/user-attachments/assets/1536a52d-0f45-4d79-bbf3-eb7660a6ab03)
+![Screenshot 1](https://github.com/user-attachments/assets/ddb86d24-ed75-4916-b8eb-b2ac24573122)
+![Screenshot 2](https://github.com/user-attachments/assets/1536a52d-0f45-4d79-bbf3-eb7660a6ab03)
 
 ## 🛠️ Architecture
 
