@@ -1,3 +1,7 @@
 venv
 .env
 stocks.db
+__pycache__
+charts/
+ngrok.exe
+.claude/
